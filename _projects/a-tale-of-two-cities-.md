@@ -54,7 +54,7 @@ First, I looked at the total population of both the city, outlined in black, and
 It is starkly apparent that the city and town of Poughkeepsie are racially segregated, which is important to establish as this will have an impact on the implications for the actual impact of the disparities in access to housing in the maps below as well. While many northern cities seem to think that racial segregation is a thing of the past, even in the last twenty years it is apparent that the Hudson Valley as a whole, and specifically Poughkeepsie have notfully reckoned with the decades, of not centuries, long movements to systemically deprive marginalized communities access to education, housing, healthcare and more. For the rest of this project, I found these maps were impactful to refer back to when looking at the differences in the other factors that were investigated, as it became clear that not only are the city and towen of poughkeepsie segregatged by race, but also in access to wealth through homeownership and housing costs, as well as the burden of rent on households. 
 
 
-###### Housing Tenure
+## Housing Tenure
 
 ![]({{ page.img-folder }}uI33Ypa.png)
 

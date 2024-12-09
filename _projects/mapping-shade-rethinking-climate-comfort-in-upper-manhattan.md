@@ -38,11 +38,11 @@ Preliminary research for this project involved a detailed review of existing cli
 
 ![]({{ page.img-folder }}6NVDSym.png)
 
-As is evident in the map above, while park properties, community gardens, and water features are widely distributed across the city, cooling sites were concentrated in neighborhoods identified as most vulnerable to heat. However, many of these cooling sites were reported as broken or inactive, rendering them ineffective, as shown in the FELT map.
+As is evident in the map above, while park properties, community gardens, and water features are widely distributed across the city, cooling sites were concentrated in neighborhoods identified as most vulnerable to heat. However, many of these cooling sites were reported as broken or inactive, rendering them ineffective, as shown in the Felt map.
  
-https://felt.com/map/Facilities-in-Heat-Vulnerable-Areas-copy-9CguvE9CD9BSuCDACPsV9BzcjA?loc=40.7315,-73.8499,10.83z
+[https://felt.com/map/Facilities-in-Heat-Vulnerable-Areas-copy-9CguvE9CD9BSuCDACPsV9BzcjA?loc=40.7315,-73.8499,10.83z](https://felt.com/map/Facilities-in-Heat-Vulnerable-Areas-copy-9CguvE9CD9BSuCDACPsV9BzcjA?loc=40.7315,-73.8499,10.83z)
 
-Another important insight was that no available dataset exists for cooling centers, as the locations of these are released in the event of a heatwave. One map is available online, however the source data is not openly accessible (see: https://finder.nyc.gov/coolingcenters/locations)
+Another important insight was that no available dataset exists for cooling centers, as the locations of these are released in the event of a heatwave. One map is available online, however the source data is not openly accessible (see: [https://finder.nyc.gov/coolingcenters/locations](https://finder.nyc.gov/coolingcenters/locations))
 
 This finding necessitated a deeper investigation into the adequacy and reliability of cooling infrastructure. To understand the disparities further, the project examined how these resources align with socioeconomic indicators such as median household income and the presence of BIPOC (Black, Indigenous, and People of Color) populations.
 
@@ -50,7 +50,7 @@ This finding necessitated a deeper investigation into the adequacy and reliabili
 
 ![]({{ page.img-folder }}SdUc1FN.png)
 
-As is shown in the maps above, neighborhoods with the lowest Median Household Income and the highest percentage oof BIPOC populations overlap with the zipcodes that are ranked highest on the heat vulnerability index. Therefore, the evaluation of these resources raises two important questions:
+As is shown in the maps above, neighborhoods with the lowest Median Household Income and the highest percentage of BIPOC populations overlap with the zipcodes that are ranked highest on the heat vulnerability index. Therefore, the evaluation of these resources raises two important questions:
 
 What is the functionality of these resources?
 What resources are missing?
@@ -64,7 +64,7 @@ At the same time, the distribution of shade—or lack thereof—reveals deep ine
 
 ## Methodology
 
-In order to respond to the gao identified in the preliminary research, this project focused on developing and analyzing a shade dataset in NYC. This research was conducted in upper Manhattan, more specifically East Harlem, because it is among the neighborhoods ranked highest on the heat vulnerability  index. In addition, this site was chosen because of ease of access, as the research process required frequent field visits. Below is a map establishing the context of upper Manhattan, focusing on resources associated with climate comfort.
+In order to respond to the gap identified in the preliminary research, this project focused on developing and analyzing a shade dataset in NYC. This research was conducted in upper Manhattan, more specifically East Harlem, because it is among the neighborhoods ranked highest on the heat vulnerability  index. In addition, this site was chosen because of ease of access, as the research process required frequent field visits. Below is a map establishing the context of upper Manhattan, focusing on resources associated with climate comfort.
 
 ![]({{ page.img-folder }}YbliPoJ.png)
 
